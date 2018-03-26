@@ -42,11 +42,13 @@ EXPERIMENTAL RESULTS
 ---------------------------------------------------
 
 Visual results
+---------------------------------------------------
 
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/OWOC-BS/master/docs/visual_result.png" border="0" /></p>
 <center> <small>  Background subtraction results using the MSVS dataset – (a) original frame, (b) ground truth and (c) proposed method. The true positives (TP) pixels are in white, true negatives (TN) pixels in black, false positives (FP) pixels in red and false negatives (FN) pixels in green.  </center>
 
 Quantitative results
+---------------------------------------------------
 
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/OWOC-BS/master/docs/imp_features.png" border="0" /></p>
 <center> <small>   Illustration of the visual features importance through video scenes from the MSVS dataset. For each pixel, certain features are ignored or  receive relatively low importance in favor of other more informative features.  </center>
