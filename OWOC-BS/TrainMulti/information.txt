@@ -1,2 +1,0 @@
-Add your images here.
-Attention this folder should have the same number of images from the Train, Validation, and GTValidation folder.
