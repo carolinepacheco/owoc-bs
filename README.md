@@ -63,5 +63,5 @@ author    = {Silva, Caroline and Bouwmans, Thierry and Frelicot, Carl},
 title     = {Online Weighted One-Class Ensemble for Feature Selection in Background/Foreground Separation},
 booktitle = {International Conference on Pattern Recognition (ICPR)},
 year      = {2016},
-url       = https://www.behance.net/gallery/63435921/Weighted-Random-Subspace-for-Feature-Selection}
+url       = {https://www.researchgate.net/publication/305239821_Online_Weighted_One-Class_Ensemble_for_Feature_Selection_in_BackgroundForeground_Separation}
 ```
